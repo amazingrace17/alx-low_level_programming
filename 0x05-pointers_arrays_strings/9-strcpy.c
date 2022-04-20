@@ -2,11 +2,10 @@
 
 /**
  * _strcpy - Copy strings from source arr to destination arr
- * 
  * @dest: destination array
  * @src: source array
  *
- * Return : pointer to destination array
+ * Return: pointer to destination array
  */
 char *_strcpy(char *dest, char *src)
 {
