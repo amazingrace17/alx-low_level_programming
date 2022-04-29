@@ -1,9 +1,11 @@
 #include "main.h"
 /**
- * sqrt_check -Checks for the square root of c
+ * sqrt_check - Checks for the square root of c
  *
- * @g: guess at sqrt
- * @c: NUMBER to find sqrt of
+ * @g: Guess at sqrt
+ *
+ * @c: Number to find sqrt of
+ *
  * Return: -1 or sqrt of c
  */
 
@@ -18,8 +20,10 @@ int sqrt_check(int g, int c)
 
 /**
  * _sqrt-recursion - returns the natural square
+ *
  * @n: integer
- * Return: natural square root or -1
+ *
+ * Return: Natural square root or -1
  */
 
 int _sqrt_recursion(int n)
